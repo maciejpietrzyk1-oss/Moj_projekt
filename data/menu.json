@@ -1,0 +1,265 @@
+[
+  {
+    "id": "poczatek",
+    "title": "Na dobry początek",
+    "intro": "Do dzielenia. Albo dla siebie.",
+    "items": [
+      {
+        "name": "Podziel się gustami",
+        "description": "Selekcja rzemieślniczych serów i wędlin, ubijane masło z ’ndują, konfitura morelowa ze szczyptą chili, piklowane warzywa i oliwki, nasze paluchy.",
+        "price": null
+      },
+      {
+        "name": "Meze GUSTA",
+        "description": "Ubijana burrata z piklowanymi pomidorkami i bazylią, tapenada z czarnych oliwek, chipsy z bakłażana, pieczona papryka oraz pikle, nasze paluchy.",
+        "price": null
+      },
+      {
+        "name": "Biesiada Italia",
+        "description": "Mini arancini z mozzarellą, mini-stiksy ziemniaczane, krewetki (4 szt.). Do maczania: arrabbiata, majonez z pieczonego czosnku i pesto bazyliowe, nasze paluchy.",
+        "price": null
+      },
+      {
+        "name": "Biba po polsku",
+        "description": "Tatar wołowy, kapary, majonez z pieczonego czosnku, żółtko, szalotka, piklowana gorczyca i stiksy ziemniaczane, pieczywo rzemieślnicze.",
+        "price": null
+      },
+      {
+        "name": "Mięsne „GUSTA” · 4/6 osób",
+        "description": "Schab jagnięcy, filet z kurczaka, stek z polędwicy z jałówki, peposo alla toscana.",
+        "price": null
+      }
+    ]
+  },
+  {
+    "id": "zupy",
+    "title": "Na mokro",
+    "intro": "Coś ciepłego na początek.",
+    "items": [
+      {
+        "name": "Krem z pieczonej dyni",
+        "description": "",
+        "price": null
+      },
+      {
+        "name": "Zupa z grzybów",
+        "description": "",
+        "price": null
+      }
+    ]
+  },
+  {
+    "id": "salaty",
+    "title": "Lekka strona GUSTY",
+    "intro": "Sałaty i GUSTA w misce.",
+    "items": [
+      {
+        "name": "Sałata rzymska",
+        "description": "Filet z kurczaka, kapary, parmezan, pangrattato i pomidorki koktajlowe. Proponowany wariant z tofu zamiast kurczaka.",
+        "price": null
+      },
+      {
+        "name": "Sałata masłowa",
+        "description": "Jesiotr, dressing koperkowy, pangrattato, koper włoski i karczoch.",
+        "price": null
+      },
+      {
+        "name": "GUSTA w misce · bulgur",
+        "description": "Kasza bulgur, ogórek, endamame, rzodkiew żółta, wakame, żel bergamotka, sos limonkowo-kolendrowy. Wariant z kurczakiem lub krewetkami.",
+        "price": null
+      },
+      {
+        "name": "GUSTA w misce · chrupiące tofu",
+        "description": "Awokado, pieczona papryka, marynowana czerwona cebula, pomidorki koktajlowe, cieciorka, ziarna granatu, prażone pestki dyni i nerkowca, świeże zioła, winegret cytrusowy.",
+        "price": null
+      }
+    ]
+  },
+  {
+    "id": "pizza",
+    "title": "Ciao, GUSTA! Pizza",
+    "intro": "Miksuj dowolnie — wybierz dodatki do swojej Margherity.",
+    "items": [
+      {
+        "name": "Margherita",
+        "description": "Sos pomidorowy, mozzarella fior di latte, świeża bazylia, oliwa extra virgin.",
+        "price": 31
+      },
+      {
+        "name": "Dodatki mięsne i serowe",
+        "description": "Prosciutto cotto, prosciutto crudo, salami milano, salami spianata piccante, ’nduja, coppa stagionata, burrata, gorgonzola, pecorino romano, ricotta, provolone wędzone.",
+        "price": null
+      },
+      {
+        "name": "Dodatki warzywne",
+        "description": "Cebula, czosnek, karczochy, kapary, oliwki, papryka, pesto bazyliowe, pieczarki portobello, pomidorki koktajlowe, pomidory suszone, rukola.",
+        "price": null
+      }
+    ]
+  },
+  {
+    "id": "pasta",
+    "title": "Ciao, GUSTA! Pasta",
+    "intro": "Wybierz makaron i sos. Miksuj po swojemu.",
+    "items": [
+      {
+        "name": "Makarony do wyboru",
+        "description": "Linguine, pappardelle, maccheroni, fusilli.",
+        "price": null
+      },
+      {
+        "name": "Ragù alla bolognese",
+        "description": "Sos do wybranego makaronu.",
+        "price": null
+      },
+      {
+        "name": "Funghi porcini",
+        "description": "Sos do wybranego makaronu.",
+        "price": null
+      },
+      {
+        "name": "Aglio, olio e peperoncino z krewetkami",
+        "description": "Do wybranego makaronu.",
+        "price": null
+      },
+      {
+        "name": "Carbonara z guanciale",
+        "description": "Do wybranego makaronu.",
+        "price": null
+      }
+    ]
+  },
+  {
+    "id": "konkrety",
+    "title": "Konkrety",
+    "intro": "Gdy masz ochotę na więcej.",
+    "items": [
+      {
+        "name": "Stek z polędwicy z jałówki",
+        "description": "200–250 g, sos pieprzowy.",
+        "price": null
+      },
+      {
+        "name": "Peposo alla toscana",
+        "description": "Gulasz toskański.",
+        "price": null
+      },
+      {
+        "name": "Dorada",
+        "description": "Sos maltański, puder ze szpinaku.",
+        "price": null
+      },
+      {
+        "name": "Filet z kurczaka",
+        "description": "Sos demi-glace tymiankowy.",
+        "price": null
+      },
+      {
+        "name": "Schab jagnięcy",
+        "description": "Sos oscypkowy, olej estragonowy.",
+        "price": null
+      },
+      {
+        "name": "Smash burger wołowy",
+        "description": "Bekon, majonez z rukolą, mimolette, pikle, sałata lodowa, frytki.",
+        "price": null
+      },
+      {
+        "name": "Burger roślinny z tofu",
+        "description": "Majonez wegański, pikle, sałata lodowa, frytki.",
+        "price": null
+      }
+    ]
+  },
+  {
+    "id": "dodatki",
+    "title": "Dodatki według Twojego gustu",
+    "intro": "Małe rzeczy, duży wybór.",
+    "items": [
+      {
+        "name": "Ziemniaki ratte z parmezanem i szczypiorkiem",
+        "description": "",
+        "price": null
+      },
+      {
+        "name": "Frytki",
+        "description": "",
+        "price": null
+      },
+      {
+        "name": "Purée ziemniaczane z koperkiem",
+        "description": "",
+        "price": null
+      },
+      {
+        "name": "Broccolini",
+        "description": "",
+        "price": null
+      },
+      {
+        "name": "Mini marchew",
+        "description": "",
+        "price": null
+      },
+      {
+        "name": "Sałata rzymska z winegretem i pieczonymi pomidorkami",
+        "description": "",
+        "price": null
+      },
+      {
+        "name": "Pieczywo rzemieślnicze",
+        "description": "",
+        "price": null
+      },
+      {
+        "name": "Masło ubijane z ’ndują",
+        "description": "",
+        "price": null
+      },
+      {
+        "name": "Ubijana oliwa z solą Maldon",
+        "description": "",
+        "price": null
+      }
+    ]
+  },
+  {
+    "id": "dzieci",
+    "title": "Stoliczku, nakryj się!",
+    "intro": "Mniejszy apetyt? Ten sam gust. Wybrane dania z naszej karty przygotujemy również w mniejszej porcji. Zapytaj obsługę o możliwości i ceny.",
+    "items": [
+      {
+        "name": "Zupa pomidorowa z fusilli",
+        "description": "",
+        "price": null
+      },
+      {
+        "name": "Filet z kurczaka",
+        "description": "Purée ziemniaczane i marchewka.",
+        "price": null
+      },
+      {
+        "name": "Makaron do wyboru",
+        "description": "Sos pomidorowy i parmezan.",
+        "price": null
+      }
+    ]
+  },
+  {
+    "id": "desery",
+    "title": "Ostatnia pokusa",
+    "intro": "Jeszcze coś na koniec?",
+    "items": [
+      {
+        "name": "Tiramisu",
+        "description": "",
+        "price": null
+      },
+      {
+        "name": "Budino czekoladowe",
+        "description": "Z karmelem i solą Maldon.",
+        "price": null
+      }
+    ]
+  }
+]
